@@ -14,6 +14,7 @@ A fake car repair invoice created using the lastest (2019) React.js hooks and CS
 - [Sample Screenshots](#sample-screenshots)
 - [installation](#installation)
 
+
 ## Sample Screenshots
 <img src="https://github.com/jefferyvincent/Invoice/blob/master/public/assets/preview.png" alt="Tabs" />
 
